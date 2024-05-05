@@ -1,12 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Ghina, a third year as a student at Gunadarma University. Currently active as a Bangkit Academy Student 2024 with focused on Cloud Computing path. I also become a Core Team (non-tech) at Google Developer Student in my uni. I actually newbie but I'm totaly welcome if you want reach out to me! Let's be friend 🌿
 
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/ryxhna">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryxhna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryxhna&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryxhna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryxhna&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
