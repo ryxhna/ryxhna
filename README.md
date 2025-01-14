@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ghina, a third year as a student at Gunadarma University. Currently active as a Bangkit Academy Student 2024 with focused on Cloud Computing path. I also become a Core Team (non-tech) at Google Developer Student in my uni. I actually newbie but I'm totaly welcome if you want reach out to me! Let's be friend 🌿
+I'm Ghina, a final year student at Gunadarma University. Currently active as a IT Infrastructure Cloud (Intern) and previosly activity is Bangkit Academy Student 2024 with focused on Cloud Computing path. I actually newbie but I'm totaly welcome if you want reach out to me! Let's be friend 🌿
 
 ### Github Statistic
 <p align="left">
